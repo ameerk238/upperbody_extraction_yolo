@@ -37,8 +37,8 @@ Original videos:
 
 Since GitHub doesn't directly support playing videos in README files, you can check out these animated GIFs showing the processing in action:
 
-![Video 1 GIF](/upperbody_extraction_yolo/GIFs/video1_yolo.gif)
-![Video 2 GIF](/upperbody_extraction_yolo/GIFs/video2_yolo.gif)
+![Video 1 GIF](./GIFs/video1_yolo.gif)
+![Video 2 GIF](./GIFs/video2_yolo.gif)
 
 **Note:** These example GIFs and videos are just short clips demonstrating the processing technique, not the complete processed output of the entire YouTube videos. They're meant to illustrate how the tool works rather than provide the full dataset.
 
